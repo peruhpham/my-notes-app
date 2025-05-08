@@ -182,10 +182,4 @@ MIT License © 2025 Your Name
 
 ---
 
-👉 Nếu muốn, mình có thể:
-✅ Viết thêm hướng dẫn **setup MySQL chi tiết**  
-✅ Viết thêm lệnh **npm script** gợi ý cho frontend/backend  
-✅ Viết thêm mục **troubleshooting**
-
-Chỉ cần nói: **“Bổ sung giúp nhé”** nhé! 🚀
 ```
